@@ -1,0 +1,2 @@
+model_checkpoint_path: "reg"
+all_model_checkpoint_paths: "reg"
